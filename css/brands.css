@@ -596,19 +596,19 @@
 .button-xing {
 	--button-text:#0b6162;
 	--button-background:#c6f16d;
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #c6f16d;
 }
 
 /* Xing */
 .button-printables {
 	--button-text:#000;
 	--button-background:#eb5405;
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #eb5405;
 }
 
 /* Xing */
 .button-schwabenpilot {
 	--button-text:#000;
 	--button-background:#fcb900;
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #fcb900;
 }
