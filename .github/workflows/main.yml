@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: hosting172232.ae879.netcup.net
-        username: ${{ secrets.NETCUP_FTP_USERNAME }}
+        username: ${{ secrets.NETCUP_FTP_USER }}
         password: ${{ secrets.NETCUP_FTP_PASSWORD }}
