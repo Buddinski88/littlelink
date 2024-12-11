@@ -14,3 +14,7 @@ jobs:
         server: hosting172232.ae879.netcup.net
         username: ${{ secrets.NETCUP_FTP_USER }}
         password: ${{ secrets.NETCUP_FTP_PASSWORD }}
+        exclude: |
+          **/.devcontainer/**
+          README.md
+          VERSION.md
