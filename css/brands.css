@@ -599,16 +599,23 @@
 	--button-border:1px solid #c6f16d;
 }
 
-/* Xing */
+/* Printables */
 .button-printables {
 	--button-text:#000;
 	--button-background:#eb5405;
 	--button-border:1px solid #eb5405;
 }
 
-/* Xing */
+/* Blog */
 .button-schwabenpilot {
 	--button-text:#000;
 	--button-background:#fcb900;
 	--button-border:1px solid #fcb900;
+}
+
+/* MakerWorld */
+.button-makerworld {
+	--button-text:#000;
+	--button-background:#ffffff;
+	--button-border:1px solid #ffffff;
 }
